@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}
+
+.wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+.one {
+  background-color: lightgray;
+  padding: 10px;
+  padding-left: 25px;
+}
+
+.onebox {
+  background-color: #507ecd;
+  height: 60px;
+  width: 60px;
+  vertical-align: middle;
+
+}
+
+.two {
+  background-color: white;
+  padding-left: 70px;
+  padding-right: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+.three {
+  height: calc(100%/7);
+  background-color: #507ecd;
+}
+
+.four {
+  height: calc(100%/7);
+  background-color: #5beebe;
+}
+
+.five {
+  height: calc(100%/7);
+  background-color: #b3f76f;
+}
+
+.six {
+  height: calc(100%/7);
+  background-color: #f0ed0b;
+}
