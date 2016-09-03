@@ -40,7 +40,7 @@ p {
 
 .three {
   height: calc(100%/7);
-  background-color: #507ecd;
+  background-color: rgb(60, 123, 218);
 }
 
 .four {
